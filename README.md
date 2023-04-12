@@ -5,3 +5,4 @@ The contents of this repository are as follows:
 - movie_data_collection.ipynb: python code to web scrape and create dataframe
 - movies.csv: cleaned dataframe of 205 superhero movies (variables: Title, Year, Rating, Runtime, Genre, Gross)
 - superheroEDA.ipynb: python code to apply exploratory data analysis
+- superhero_datastory.ipynb: pyton code to create the two data story plots
